@@ -23,7 +23,7 @@ body{
     width:45%;
     margin-left: auto;
     background: url(images.png);
-    background-size:20px;
+    background-size:cover;
     background-repeat: no-repeat;
     }
     .block-2 .Trivia-Music{
