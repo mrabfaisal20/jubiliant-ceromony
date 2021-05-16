@@ -1,14 +1,26 @@
+body{
+    margin:0px;
+}
 .container{
     display: flex;
     height:100vh;
 }
 .block-1{
+    
     width:50%;
-    background-color: black;
-    color:blue;
+    background-color: #292a2d;
+    color:#73b0f0;
     
     }
+    .block-1 p{
+        margin-top: 40vh;
+        margin-left: 10vh;
+        margin-right: 10vh;
+        font-size: 36px;;
+
+    }
     .block-2{
-    background-color: cornsilk;
-    color:crimson
+    width:50%;
+    background-color: #ffffff;
+    color:crimson;
     }
