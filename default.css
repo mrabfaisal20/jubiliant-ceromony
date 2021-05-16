@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    height:100vh;
+}
+.block-1{
+    width:50%;
+    background-color: black;
+    color:blue;
+    
+    }
+    .block-2{
+    background-color: cornsilk;
+    color:crimson
+    }
