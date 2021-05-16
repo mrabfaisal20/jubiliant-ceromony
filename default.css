@@ -20,20 +20,29 @@ body{
 
     }
     .block-2{
-    width:50%;
-    background-color: #ffffff;
-    color:crimson;
+    width:45%;
+    margin-left: auto;
+    background: url(images.png);
+    background-size:20px;
+    background-repeat: no-repeat;
     }
     .block-2 .Trivia-Music{
-    margin-top: 4vh;
+    margin-top: 10%;
     }
     .block-2 .Trivia-questions{
-        background-image: url(https://aks-trivia.vercel.app/_next/static/media/logo.e616a031bb1bd0d5b939f887f33c3a31.png);
-        width: 60%;
-        margin-top: auto;
+        margin-top: 20%;
     }
 .block-2 .Trivia-Timer{
-    margin-top: 62vh;
+    position: absolute;
+    bottom: 0;
+}
+.Trivia-questions button{
+    background-color: #73b0f0;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 7px #64b5f6;
+
 }
 
 
