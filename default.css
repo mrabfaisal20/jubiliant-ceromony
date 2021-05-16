@@ -24,3 +24,16 @@ body{
     background-color: #ffffff;
     color:crimson;
     }
+    .block-2 .Trivia-Music{
+    margin-top: 4vh;
+    }
+    .block-2 .Trivia-questions{
+        background-image: url(https://aks-trivia.vercel.app/_next/static/media/logo.e616a031bb1bd0d5b939f887f33c3a31.png);
+        width: 60%;
+        margin-top: auto;
+    }
+.block-2 .Trivia-Timer{
+    margin-top: 62vh;
+}
+
+
